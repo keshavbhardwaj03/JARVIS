@@ -28,3 +28,5 @@ libraries we used are
 <li>googlesearch</li>
  
   </ul>
+  <br>
+  To run the project just run the .py file
